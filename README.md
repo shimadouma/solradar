@@ -1,9 +1,18 @@
 # solradar
 
 狸白めるものライブ配信アーカイブのコメントの勢いを表示して、なんかいい感じにするものです。
+
 https://shimadouma.github.io/solradar/
 
-# 実装予定の機能
+## ざっくりと
+
+![image](https://user-images.githubusercontent.com/15803634/173565595-c6d78b62-d489-44b9-8cc2-89e0bbeae42a.png)
+- コメントの勢いがあるところが一目でわかる
+- グラフをクリックするとその位置から再生される
+
+うーん、便利
+
+## 実装予定の機能
 
 だいたい優先度順
 
