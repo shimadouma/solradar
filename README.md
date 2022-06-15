@@ -2,7 +2,7 @@
 
 狸白めるものライブ配信アーカイブのコメントの勢いを表示して、なんかいい感じにするものです。
 
-https://shimadouma.github.io/solradar/
+サイトを見る → https://shimadouma.github.io/solradar/
 
 ## ざっくりと
 
